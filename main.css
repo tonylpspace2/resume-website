@@ -1,0 +1,46 @@
+html{
+    font-size: 22px;
+}
+
+body{
+    background-color:rgb(72, 72, 72) ;
+    color: whitesmoke;
+}
+
+h1, h2, h3,h4{
+    text-align: center;
+    font-family: Cambria, Cochin, Georgia, Times, 'Times New Roman', serif;
+}
+
+hr{
+    height: 4px;
+    background-color: rgb(0, 0, 0);
+    border: none;
+}
+
+strong{
+    color: whitesmoke;
+}
+
+div.container{
+    text-align: justify;
+}
+
+
+
+ul.myUL{
+    display: inline-block;
+    text-align: left;
+}
+
+a{ color: aliceblue;
+
+}
+
+a:visited{
+    color: lightgrey;
+}
+
+a:hover, a:active {
+    color: #eee;
+}
