@@ -26,6 +26,11 @@ div.container{
     text-align: justify;
 }
 
+img{
+    display:block;
+    margin-left:auto;
+    margin-right:auto;
+}
 
 
 ul.myUL{
